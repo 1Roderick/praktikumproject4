@@ -3,6 +3,9 @@
 ## Используемые технологии
 - HTML
 - CSS
+- Flexbox вёрстка
+- Адаптивная вёрстка
+- БЭМ
 ## Как воспользоваться проектом
 ### Посмотреть на Github Pages:
 https://1Roderick.github.io/praktikumproject4
